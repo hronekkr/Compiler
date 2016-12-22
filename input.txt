@@ -1,1 +1,3 @@
 declare ;integer ;a,b,c,d ;b ;:= ;125 ;c ;:= ;b ;- ;50 ;d ;:= ;b ;+ ;c ;+ ;100 ;read ;a ;write ;a ;##
+
+//This is the input that works for the scanner as is.  As changes are made tot he compiler, the format of the input "sample //program" will change as well.
